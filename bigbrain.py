@@ -5,3 +5,4 @@ if answer == 19:
 else:
     print("You stoopid")
       
+#die in a fire
