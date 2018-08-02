@@ -1,4 +1,4 @@
-def anna(x):
-    return x
+def anna():
+    return "idiot"
 
-print(anna("idiot"))
+print(anna())
